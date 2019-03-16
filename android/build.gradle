@@ -39,5 +39,5 @@ dependencies {
     }
     implementation 'androidx.concurrent:concurrent-futures:1.0.0-alpha03'
     implementation 'androidx.annotation:annotation:1.0.1'
-    implementation 'androidx.core:core:1.0.1'
+    api 'androidx.core:core:1.0.1'
 }
